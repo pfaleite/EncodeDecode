@@ -1,0 +1,22 @@
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\bin\Debug\EDTool.exe.config
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\bin\Debug\EDTool.exe
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\bin\Debug\EDTool.pdb
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.csproj.AssemblyReference.cache
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.Properties.Resources.resources
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.csproj.GenerateResource.cache
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.csproj.CoreCompileInputs.cache
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.exe
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.pdb
+C:\Users\Paulo F. A. Leite\OneDrive\Documentos\ProJects\C\EDTool\EDTool\obj\Debug\EDTool.MnForm.resources
+C:\CoDing\C#\Encode Decode Tool\EDTool\bin\Debug\EDTool.exe.config
+C:\CoDing\C#\Encode Decode Tool\EDTool\bin\Debug\EDTool.exe
+C:\CoDing\C#\Encode Decode Tool\EDTool\bin\Debug\EDTool.pdb
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.csproj.AssemblyReference.cache
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.csproj.SuggestedBindingRedirects.cache
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.MnForm.resources
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.Properties.Resources.resources
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.csproj.GenerateResource.cache
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.csproj.CoreCompileInputs.cache
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.exe
+C:\CoDing\C#\Encode Decode Tool\EDTool\obj\Debug\EDTool.pdb
